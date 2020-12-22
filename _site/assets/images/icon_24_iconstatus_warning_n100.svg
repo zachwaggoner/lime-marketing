@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon_24_iconstatus_warning_n100</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_24_iconstatus_warning_n100">
+            <polygon id="boundingBox" fill="#FFFFFF" opacity="0" points="24 0 0 0 0 24 24 24 24 0"></polygon>
+            <g id="icon" transform="translate(4.000000, 3.000000)">
+                <path d="M8.9048187,1.92273974 L15.3290367,15.574203 C15.5641979,16.0739205 15.3497326,16.6696575 14.850015,16.9048187 C14.7168185,16.9674994 14.571426,17 14.424218,17 L1.57578201,17 C1.02349726,17 0.575782013,16.5522847 0.575782013,16 C0.575782013,15.852792 0.608282587,15.7073995 0.670963311,15.574203 L7.0951813,1.92273974 C7.33034251,1.42302217 7.92607947,1.20855687 8.42579704,1.44371808 C8.6363397,1.54279698 8.8057398,1.71219707 8.9048187,1.92273974 Z" id="Rectangle" stroke="#222222" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <line x1="8" y1="6" x2="8" y2="11" id="Path" stroke="#222222" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></line>
+                <circle id="Oval" fill="#222222" cx="8.07519531" cy="14" r="1"></circle>
+            </g>
+        </g>
+    </g>
+</svg>

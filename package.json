@@ -1,0 +1,15 @@
+{
+  "name": "lime-marketing-site",
+  "version": "1.0.0",
+  "description": "static site generator for Limes marketing website",
+  "main": ".eleventy.js",
+  "dependencies": {
+    "luxon": "^1.25.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "zach waggoner",
+  "license": "ISC"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon_24_iconalert_n100</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_24_iconalert_n100">
+            <polygon id="boundingBox" fill="#FFFFFF" opacity="0" points="24 0 0 0 0 24 24 24 24 0"></polygon>
+            <g id="icon" transform="translate(6.000000, 4.000000)">
+                <path d="M6,0 C8.76142375,0 11,2.05202823 11,4.58333333 L11,4.58333333 L11,11 L1,11 L1,4.58333333 L1.0048717,4.37917371 C1.12138604,1.94260671 3.31320933,0 6,0 Z" id="Combined-Shape" stroke="#222222" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"></path>
+                <path d="M4,14 C4,15.1045695 4.8954305,16 6,16 C7.1045695,16 8,15.1045695 8,14 L4,14 Z" id="Oval" fill="#222222"></path>
+                <polygon id="Rectangle" stroke="#222222" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" points="1 11 11 11 12 14 0 14"></polygon>
+            </g>
+        </g>
+    </g>
+</svg>

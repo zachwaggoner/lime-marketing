@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 62 (91390) - https://sketch.com -->
+    <title>icon_24_iconview_n100</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Symbols" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="icon_24_iconview_n100">
+            <polygon id="boundingBox" fill="#FFFFFF" opacity="0" points="24 0 0 0 0 24 24 24 24 0"></polygon>
+            <g id="icon" stroke-linecap="round" stroke-linejoin="round" transform="translate(4.000000, 8.000000)" stroke="#222222" stroke-width="1.5">
+                <circle id="Oval" cx="8" cy="4" r="2"></circle>
+                <path d="M8,8 C10.9455187,8 13.6121853,6.66666667 16,4 C13.6121853,1.33333333 10.9455187,0 8,0 C5.05448133,0 2.38781467,1.33333333 0,4 C2.38781467,6.66666667 5.05448133,8 8,8 Z" id="Oval"></path>
+            </g>
+        </g>
+    </g>
+</svg>
