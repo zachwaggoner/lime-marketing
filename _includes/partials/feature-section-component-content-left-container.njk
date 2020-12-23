@@ -1,12 +1,12 @@
-<section id="feature-section" class="c-feature-section-2 is--color-black is--flipped">
-    <div class="c-feature-image__image-mask-2"><img src="../../images/BrandFilm_Carlos_BTS_0519-06-1.jpg" sizes="(max-width: 767px) 100vw, (max-width: 991px) 69vw, (max-width: 1279px) 44vw, (max-width: 1439px) 45vw, (max-width: 1919px) 46vw, 50vw" srcset="../../images/BrandFilm_Carlos_BTS_0519-06-1-p-500.jpeg 500w, ../../images/BrandFilm_Carlos_BTS_0519-06-1.jpg 697w" alt="" class="c-feature-section__image-2"></div>
+<section id="feature-section" class="c-feature-section-2 {{sectionBg}} {{contentDirection}}">
+    <div class="c-feature-image__image-mask-2"><img src="{{imgUrl}}" alt="{{imgAlt}}" class="c-feature-section__image-2"></div>
     <div class="spacer-med"></div>
     <div class="c-feature-section__content">
-      <div class="c-eyebrow-heading is--color-g110">
-        <h6 class="c-eyebrow-heading__title">Sustainability</h6>
-      </div>
-      <h2 class="is--text-white is--weight-medium">All power. <br>No gas.</h2>
-      <p class="is--text-white">Skip traffic, travel for up to 14 miles, and never pay for gas. 2021 is starting to look bright.</p>
+      {% block heroContent %}
+      {% include 'partials/eyebrow-filled-component.njk' %}
+      <h2 class="{{textColor}}">{{headline}}</h2>
+      <p class="{{textColor}}">{{subhead}}</p>
+      {% endblock %}
     </div>
     <div class="spacer-med"></div>
 </section>
